@@ -1,0 +1,14 @@
+COD F51
+OBS J. Bulger, T. Lowe, A. Schultz, M. Willman
+MEA T. Vorobjov, PS1 Science Consortium
+TEL 1.8-m f/4.4 Ritchey-Chretien + CCD
+ACK MPCReport file updated 2025.10.04 13:13:08
+NET Gaia DR1
+COM Observations reduced with Gaia DR1 reference stars. Photometry in Gaia G band. Good seeing and clear sky conditions.
+     TEJ2404  C2025 07 26.44446320 42 54.517-22 59 20.03         18.5 G      F51
+     TEJ2404  C2025 07 26.45474220 42 53.993-22 59 24.73         19.4 G      F51
+     TEJ2404  C2025 07 26.46502820 42 53.372-22 59 30.84         18.2 G      F51
+     TGS2404  C2025 07 26.44446320 42 39.667-22 57 39.00         19.6 G      F51
+     TGS2404  C2025 07 26.46502820 42 39.590-22 57 38.95         19.5 G      F51
+     TGS2404  C2025 07 26.47529920 42 39.575-22 57 38.86         19.6 G      F51
+----- end -----
