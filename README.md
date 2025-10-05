@@ -6,7 +6,7 @@ This repository documents my participation in the **NASA Citizen Science Program
 - **Team:** AsteroTrackers – Tejasri Team  
 - **Campaign Dates:** Sept 16 – Oct 10, 2025  
 - **Platform:** NASA Citizen Science Program & IASC  
-- **Minor Planet Center (MPC) ID:** [Link to MPC report]
+- **Minor Planet Center (MPC) 
 
 ## 📄 Included in this repository
 - Discovery images  
